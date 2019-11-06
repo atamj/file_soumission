@@ -3,6 +3,6 @@
 Mettre ce code pour l'input type file pour que sa fonctionne:
 
     <div class="custom-file">
-    [file file-227 id:soumission_fichier]
-    <label class="custom-file-label" for="soumission_fichier">Joindre un fichier</label>
+        [file file-227 id:soumission_fichier]
+        <label class="custom-file-label" for="soumission_fichier">Joindre un fichier</label>
     </div>
