@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name:        File soumission
+Plugin URI:         https://github.com/atamj/file_soumission.git
 Description:        Plugin qui permet de modifier le style et le comportement de l'input type file de la page soumission
 Version:            1.0.0
 Author:             Jaël Atam
